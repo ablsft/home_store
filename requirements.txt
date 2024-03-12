@@ -1,0 +1,5 @@
+django==4.2.10
+pillow==10.2.0
+ipython
+django-debug-toolbar==4.3.0
+psycopg==3.1.18
