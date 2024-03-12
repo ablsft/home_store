@@ -2,4 +2,6 @@ store_template/
 fixtures/
 media/
 .vscode/
+.venv/
+__pycache__/
 .env
